@@ -6,6 +6,10 @@
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge)
 ![Private](https://img.shields.io/badge/Access-Private-red?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/Focus-Web%20Dev-blue?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/username/awesome-dev-tools)
+contributors badge
+license
+awesome badge
 
 <p>
   <i>"A place for everything, and everything in its place."</i>
@@ -27,11 +31,25 @@
 
 ## 📥 The Inbox (Unsorted)
 > **Rule:** Drop new links here instantly. Move them to the correct category every Friday.
+> **Purpose:** This is the quick capture zone for new tools and resources. When you discover something useful, drop it here immediately without worrying about categories. Later you can review and organize them.
 
 - [ ] [Name of Tool](URL) - *Quick note on why I saved this.*
 - [ ] [Another Tool](URL) - *Waiting to be categorized.*
 
 ---
+
+## 📚 Browse Categories
+
+| Category | Tools |
+|--------|--------|
+| PDF Tools | [View](tools/pdf.md) |
+| Frontend | [View](./tools/frontend.md) |
+| Backend | [View](./tools/backend.md) |
+| Databases | [View](./tools/databases.md) |
+| DevOps | [View](./tools/devops.md) |
+| Testing | [View](./tools/testing.md) |
+| Design | [View](./tools/design.md) |
+| Utilities | [View](./tools/utilities.md) |
 
 ## 🎨 Assets (Media & Graphics)
 *High-quality static assets for production.*
