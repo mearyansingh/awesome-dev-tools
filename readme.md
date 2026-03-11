@@ -33,8 +33,20 @@ awesome badge
 > **Rule:** Drop new links here instantly. Move them to the correct category every Friday.
 > **Purpose:** This is the quick capture zone for new tools and resources. When you discover something useful, drop it here immediately without worrying about categories. Later you can review and organize them.
 
+<details>
+<summary>📥 Inbox (Unsorted)</summary>
+
+
 - [ ] [Name of Tool](URL) - *Quick note on why I saved this.*
 - [ ] [Another Tool](URL) - *Waiting to be categorized.*
+Ray.so — Code screenshot generator  
+Shots.so — Product mockups  
+
+</details>
+
+
+
+
 
 ---
 
@@ -44,12 +56,9 @@ awesome badge
 |--------|--------|
 | PDF Tools | [View](tools/pdf.md) |
 | Frontend | [View](./tools/frontend.md) |
-| Backend | [View](./tools/backend.md) |
-| Databases | [View](./tools/databases.md) |
-| DevOps | [View](./tools/devops.md) |
-| Testing | [View](./tools/testing.md) |
-| Design | [View](./tools/design.md) |
-| Utilities | [View](./tools/utilities.md) |
+| [AI Tools](tools/ai.md) | AI developer tools |
+| [Frontend Tools](tools/frontend.md) | Frameworks and UI libraries |
+| [Backend Tools](tools/backend.md) | APIs and server tools |
 
 ## 🎨 Assets (Media & Graphics)
 *High-quality static assets for production.*
