@@ -1,10 +1,7 @@
-🔙 [Back to Categories](/README.md)
-<!-- 🔙 [Back to Categories](../README.md#-categories) -->
+🔙 [Back to Categories](../README.md#-categories)
 
 ### PDF TOOLS
 *Every tool you need to use PDFs, at your fingertips. All are 100% FREE and easy to use! Merge, split, compress, convert, rotate, unlock and watermark PDFs with just a few clicks.*
-
-(https://img.shields.io/github/stars/facebook/react)
 
 > **Badges:** Favorite | Open Source | Freemium | Free | Trending | Custom
 
