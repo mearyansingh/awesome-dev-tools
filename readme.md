@@ -56,11 +56,6 @@ Shots.so — Product mockups
 | [Backend Tools](tools/backend.md) | APIs and server tools |
 
 
-
-### PDF TOOLS
-*Every tool you need to use PDFs, at your fingertips. All are 100% FREE and easy to use! Merge, split, compress, convert, rotate, unlock and watermark PDFs with just a few clicks.*
-
-
 ###### Others handy tools:
 - **[Future Tools](https://www.futuretools.io/?pricing-model=free)** FutureTools Collects & Organizes All The Best AI Tools So YOU Too Can Become Superhuman! | Free  
 - **[HeadShotPro](https://www.headshotpro.com/tools/free-headshot-generator)** Free AI Headshot Generator | Free  
@@ -121,15 +116,10 @@ Shots.so — Product mockups
 - **[cssfx](https://cssfx.netlify.app/)** - A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use.
 - **[cssbuttons](https://cssbuttons.io/)** - Animated buttons
 
-
-- ###### Images tools
-- **[cleanpng](https://www.cleanpng.com/)** - High-Quality Transparent PNG Images
-- **[stickpng](https://www.stickpng.com/)** - High-Quality Transparent PNG Images
-- **[bgjar](https://bgjar.com/)** - Free svg background generator for your websites, blogs and app.
-- **[pngtree](https://pngtree.com/)** - Royalty Free PNG Images, Vectors, Backgrounds, Templates + AI PNG Maker
+###### Images tools
 - **[ui.glass](https://ui.glass/)** - A modern CSS UI library based on the glassmorphism design principles that will help you quickly design and build beautiful websites and applications.
 - **[app.haikei.app](https://app.haikei.app/)** - Generate unique SVG design assets
-- **[app.haikei.app](https://creatica.app/backgrounds)** - SVG Generator
+- **[creatica.app](https://creatica.app/backgrounds)** - SVG Generator
 - **[svgwave](https://svgwave.in/)** - SVG Generator
 - **[fffuel.co](https://www.fffuel.co/)** - fffuel is a collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds
 - **[shields.io](https://shields.io/)** - Concise, consistent, and legible badges
@@ -143,7 +133,8 @@ Shots.so — Product mockups
 - **[freepik](https://www.freepik.com/videos)** - Free stock video footage. Find stunning royalty-free footage and motion graphics
 - **[videezy](https://www.videezy.com/)** - Free HD Stock Footage & 4K Videos!
 - **[cleanup.pictures](https://cleanup.pictures/)** - Remove any unwanted object, people or text from your picture
-- ###### Marketing Tools
+
+###### Marketing Tools
 - **[kit.com](https://kit.com/)** - Email marketing that automates your growth
 
 
@@ -234,7 +225,7 @@ Shots.so — Product mockups
 ---
 
 ## 🛠️ Dev essentials
-*Tools that save hours of coding time.*
+*Tools that help developers to be more productive and save time.*
 
 - **[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)** - Some useful websites for programmers.
 - **[apiprobe](https://apiprobe.dev/)** - Simple & Powerful API Testing
@@ -249,18 +240,16 @@ Shots.so — Product mockups
 - **[Carbon](https://carbon.now.sh)** - Create beautiful images of your code.
 - **[manuarora resources](https://www.manuarora.in/resources)** - Helpful websites that I've been using for years that have helped me in developing applications and much more.
 
-
 ---
 
 ## 🛠️ Resume Builder
-*Tools that save hours of coding time.*
+*Tools that save hours of resume building.*
 
 - **[Reactive Resume](https://rxresu.me/)** - Reactive Resume is a free and open-source resume builder that simplifies the process of creating, updating, and sharing your resume.
 - **[standardresume](https://standardresume.co/)** - Reactive Resume is a free and open-source resume builder that simplifies the process of creating, updating, and sharing your resume.
 - **[heycv](https://heycv.app/)** - Reactive Resume is a free and open-source resume builder that simplifies the process of creating, updating, and sharing your resume.
 - **[heycv](https://lookingforresume.com/)** - Build a Professional Resume in Just Minutes – 100% Free and Easy
 - **[rezi.ai](https://www.rezi.ai/?ref=trustmrr)** - Build a Professional Resume in Just Minutes – 100% Free and Easy
-
 
 ---
 

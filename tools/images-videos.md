@@ -1,7 +1,13 @@
-🔙 [Back to Categories](../README.md#-categories)
+🔙 [Back to Categories](../README.md#browse-categories)
 
 ## 🎨 Assets (Media & Graphics)
 *High-quality static assets for production.*
+
+###### Images tools
+- **[cleanpng](https://www.cleanpng.com/)** - High-Quality Transparent PNG Images
+- **[stickpng](https://www.stickpng.com/)** - High-Quality Transparent PNG Images
+- **[bgjar](https://bgjar.com/)** - Free svg background generator for your websites, blogs and app.
+- **[pngtree](https://pngtree.com/)** - Royalty Free PNG Images, Vectors, Backgrounds, Templates + AI PNG Maker
 
 ### 📸 Stock Images & Video
 | Name | Type | License | Description |
